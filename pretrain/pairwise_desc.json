@@ -1,0 +1,13 @@
+{
+  "lsh_id": "byte",
+  "lsh_tag_id": "int",
+  "lsh_category_id": "int",
+  "lsh_title": "byte",
+  "lsh_frame_feature": "bytes",
+  "rsh_id": "byte",
+  "rsh_tag_id": "int",
+  "rsh_category_id": "int",
+  "rsh_title": "byte",
+  "rsh_frame_feature": "bytes",
+  "similarity": "float"
+}
